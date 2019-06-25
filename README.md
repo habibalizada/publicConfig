@@ -1,0 +1,2 @@
+# publicConfig
+Configuration repository
